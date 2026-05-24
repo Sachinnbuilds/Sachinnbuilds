@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sachinnbuilds/sachinnbuilds/blob/main/banner.png" alt="Sachin Ramesh Banner" width="100%" />
+  <img src="https://github.com/sachinnbuilds/sachinnbuilds/SachinRameshBanner" alt="Sachin Ramesh Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Sachin Ramesh</h1> <h3 align="center"> Building scalable applications, intelligent systems, and cloud-powered solutions. </h3> <p align="center"> I’m a Computer Science student interested in backend engineering, full-stack development, cloud technologies, and applied AI. </p> <p align="center"> I enjoy building real-world projects ranging from scalable APIs and real-time systems to AI-assisted applications and modern web platforms. </p> <p align="left"></p>
 
@@ -15,7 +15,7 @@
   <b>sachinrc2006@gmail.com</b>
 </p>
 
-<h3 align="center">Languages & Tools I Often Use</h3>
+<h3 align="center">Languages & Tools I Use</h3>
 
 <table align="center">
 <tr>
