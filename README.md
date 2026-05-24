@@ -1,224 +1,87 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        BANNER                                 -->
-<!-- Replace banner.png with your custom Canva export             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="./banner.png" alt="Sachin — Building Scalable and Intelligent Systems" width="100%" />
+  <img src="https://github.com/sachinnbuilds/sachinnbuilds/blob/main/banner.png" alt="Sachin Ramesh Banner" width="100%" />
 </p>
+<h1 align="center">Hi 👋, I'm Sachin Ramesh</h1> <h3 align="center"> Building scalable applications, intelligent systems, and cloud-powered solutions. </h3> <p align="center"> I’m a Computer Science student interested in backend engineering, full-stack development, cloud technologies, and applied AI. </p> <p align="center"> I enjoy building real-world projects ranging from scalable APIs and real-time systems to AI-assisted applications and modern web platforms. </p> <p align="left"></p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+Scalable+and+Intelligent+Systems+%E2%9A%A1;Agentic+AI+%7C+Federated+Learning+%7C+LLMs;CCE+Undergrad+%40+Amrita+%E2%80%94+Class+of+%2727;Open+Source+%7C+Security+%7C+Always+Learning" alt="Typing SVG" />
-</p>
-
-<!-- BADGES ROW -->
-<p align="center">
-  <a href="https://github.com/Sach23605in20">
-    <img src="https://img.shields.io/github/followers/Sach23605in20?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22"/>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sach23605in20&color=00b4d8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Collabs_%26_Opportunities-00b4d8?style=flat-square" alt="Open to Collabs"/>
+  <b>Sachin Ramesh</b>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sachinrc2006@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" height="22"/>
+  </a>
+  <b>sachinrc2006@gmail.com</b>
 </p>
 
-<br/>
+<h3 align="center">Languages & Tools I Often Use</h3>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> whoami`
-
-```
-  Sachin  /  CCE Undergrad @ Amrita Vishwa Vidyapeetham, Chennai  /  Class of '27
-  ─────────────────────────────────────────────────────────────────────────────────
-  Building at the intersection of AI, systems, and security.
-  I like agents that reason, models that generalize, and code that scales.
-```
-
-Currently deep in **Agentic AI**, **Federated Learning**, and **LLM-powered tooling** —
-shipping projects, grinding DSA, and contributing to open source between lectures.
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> tech_stack --list`
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0057B7?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Backend / Infra**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> git log --stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sach23605in20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sach23605in20&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sach23605in20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="42%" />
-</p>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> ls ./projects`
-
-<table>
+<table align="center">
 <tr>
+<td valign="top" width="50%" align="center">
 
-<td width="50%" valign="top">
+### Backend
+<p align="center">
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+  <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/></a>
+  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
-#### 🤖 Agentic AI & Security
+### AI / ML
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+</p>
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [VulScan-AI](#) | Python · LLM · Agents | 🔨 Active |
-| [Add project](#) | — | 🔜 Soon |
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 🏥 AI in Medicine
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [OrthoWatch](#) | Java · Spring Boot · AWS | ✅ Done |
-| [Add project](#) | — | 🔜 Soon |
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-#### 👁️ Computer Vision
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [ADAS System](#) | Python · YOLO · OpenCV | ✅ Done |
-| [Add project](#) | — | 🔜 Soon |
+### Cloud & DevOps
+<p align="center">
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%" align="center">
 
-#### 💬 NLP & LLM Systems
+### Tools & Platforms
+<p align="center">
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <a href="https://swagger.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40"/></a>
+  <a href="https://tomcat.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="40" height="40"/></a>
+</p>
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [Text-to-SQL](#) | FastAPI · GPT-4 · FAISS | ✅ Done |
-| [Add project](#) | — | 🔜 Soon |
+### Databases
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
+</p>
+
+### Frontend
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
 </td>
-
 </tr>
 </table>
 
-<br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> cat currently.log`
-
-```yaml
-building   : VulScan-AI — agentic C/C++ vulnerability scanner
-learning   : Andrew Ng ML Specialization  ·  OCA Java SE 8
-exploring  : Federated Learning  ·  RAG pipelines  ·  CTF challenges
-grinding   : DSA via Striver A2Z  ·  SWE placement prep
-listening  : git commit -m "another late night"
-```
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `> ping sachin`
-
-<p align="left">
-  <a href="mailto:ch.en.u4cce23038@ch.students.amrita.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Sach23605in20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=flat-square&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
----
-
-<p align="center">
-  <sub>⚡ <i>Ship fast. Learn faster. Build things that matter.</i></sub>
-</p>
