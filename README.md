@@ -95,4 +95,9 @@ I enjoy building real-world projects ranging from scalable APIs and real-time sy
 </tr>
 </table>
 
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img height="160"
+    src="https://github-readme-streak-stats.herokuapp.com?user=sachinnbuilds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak_label=true&hide_longest_streak_label=true" />
+</p>
 
