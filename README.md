@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sachinnbuilds/sachinnbuilds/main/SachinRameshBanner.png" alt="Sachin Ramesh Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Sachin Ramesh</h1> <h3 align="center"> Building scalable applications, intelligent systems, and cloud-powered solutions. </h3> <p align="center"> I’m a Computer Science student interested in backend engineering, full-stack development, cloud technologies, and applied AI. </p> <p align="center"> I enjoy building real-world projects ranging from scalable APIs and real-time systems to AI-assisted applications and modern web platforms. </p> <p align="left"></p>
+<h1 align="center">Hi 👋, I'm Sachin Ramesh</h1>  <p align="center"> I’m a Computer Science student interested in backend engineering, full-stack development, cloud technologies, and applied AI. </p> <p align="center"> I enjoy building real-world projects ranging from scalable APIs and real-time systems to AI-assisted applications and modern web platforms. </p> <p align="left"></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
