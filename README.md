@@ -5,27 +5,24 @@
 <h1 align="center">Hi 👋, I'm Sachin Ramesh</h1>
 
 <h4 align="center">
-I’m a Computer Science student interested in backend engineering, full-stack development, cloud technologies, and applied AI.
+I build backend systems, full-stack apps, and AI-driven tools.
 </h4>
 
 <h4 align="center">
-I enjoy building real-world projects ranging from scalable APIs and real-time systems to AI-assisted applications and modern web platforms.
+Focused on shipping real projects — from APIs and real-time systems to scalable cloud-native applications.
 </h4>
-
-<br><br>
-
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/sachin-ramesh-448a46317/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22"/>
+    <b>Sachin Ramesh</b>
   </a>
-  <b>Sachin Ramesh</b>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="mailto:sachinrc2006@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" height="22"/>
+    <b>sachinrc2006@gmail.com</b>
   </a>
-  <b>sachinrc2006@gmail.com</b>
 </p>
-
+<br><br>
 <h3 align="center">Languages & Tools I Use</h3>
 
 <table align="center">
