@@ -30,7 +30,7 @@ Interested in distributed systems, backend architecture, and applied AI — desi
 
 - Backend engineering enthusiast, building scalable applications with **Java** and **Go**
 - Interested in distributed systems and cloud-native architectures
-- Exploring applied AI and intelligent software systems (RAG, vector databases, AI agents)
+- Exploring applied AI and intelligent software systems
 - Currently learning system design, cloud architecture, and modern infrastructure practices
 - Always building, experimenting, and learning
 
